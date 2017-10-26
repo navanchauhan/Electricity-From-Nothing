@@ -32,7 +32,7 @@ AREAS OF STUDY –
 2.	Exact measurements 
 3.	Are there gases produced 
 4.	Peels of various fruits individually and in combination with other peels for higher output of electricity 
-
+#Japanese
 ### Japanese
 廃棄物の死
 注：このドキュメントの翻訳がGoogle翻訳で利用できるようになりましたので、文法上の間違いをお詫び申し上げます。
